@@ -20,7 +20,7 @@ function Projetos() {
         <ProjetoItem img={projeto4} title="Marca de João aplicada ao Gal" type="" slug="teste"/>
       </section>
       <button type="button">
-        <Link href="/projetos">
+        <Link href="/galeria">
           <a>Ver todas imagens</a>
         </Link>
       </button>

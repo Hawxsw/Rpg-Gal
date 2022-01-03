@@ -8,7 +8,7 @@ import projeto4 from '../../../assets/Projeto4.png'
 
 
 
-export default function Projeto() {
+export default function Galeria() {
   return (
     <ProjetoContainer>
       <Header />
